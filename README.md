@@ -1,4 +1,11 @@
-# Standardized Project Gutenberg Corpus
+# Standardized Project Gutenberg Corpus (Revitalization Effort)
+
+---
+
+11/13/2024: This fork is an attempt to update and expand on the work by the original authors.   
+
+---
+
 Easily generate a local, up-to-date copy of the Standardized Project Gutenberg Corpus (SPGC).
 
 The Standardized Project Gutenberg Corpus was presented in 
